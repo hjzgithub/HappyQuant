@@ -1,0 +1,5 @@
+**/__pycache__/
+/happyquant/test.ipynb
+/happyquant/sample_results
+/happyquant/vector_backtest
+/docs
